@@ -1,0 +1,8 @@
+terraform.tfvars
+terraform.luminate.tfvars
+terraform.tfstate.d
+.terraform
+remote-state/.terraform
+remote-state/terraform.tfstate
+.vscode/
+.env
